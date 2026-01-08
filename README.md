@@ -21,8 +21,8 @@ A beautiful, full-featured Flutter e-commerce application with Cubit state manag
 | :--------------------------------------------: | :--------------------------------------------: |
 | <img src="screenshots/image5.png" width="200"> | <img src="screenshots/image6.png" width="200"> |
 
-|                  Sort Options                  |     |     |
-| :--------------------------------------------: | :-: | :-: |
+|                  Sort Options                  |
+| :--------------------------------------------: |
 | <img src="screenshots/image7.png" width="200"> |
 
 ## Features
