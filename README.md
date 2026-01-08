@@ -14,11 +14,11 @@ A beautiful, full-featured Flutter e-commerce application with Cubit state manag
 | <img src="screenshots/image1.png" width="200"> | <img src="screenshots/image.png" width="200"> | <img src="screenshots/image2.png" width="200"> |
 
 |                 Shopping Cart                  |                                                |
-| :--------------------------------------------: | :--------------------------------------------: | ------------------------- |
-| <img src="screenshots/image3.png" width="200"> | <img src="screenshots/image4.png" width="200"> | _Dark mode & preferences_ |
+| :--------------------------------------------: | :--------------------------------------------: |
+| <img src="screenshots/image3.png" width="200"> | <img src="screenshots/image4.png" width="200"> |
 
-|                    Settings                    |                    DarkMod                     |     |
-| :--------------------------------------------: | :--------------------------------------------: | :-: |
+|                    Settings                    |                    DarkMod                     |
+| :--------------------------------------------: | :--------------------------------------------: |
 | <img src="screenshots/image5.png" width="200"> | <img src="screenshots/image6.png" width="200"> |
 
 |                  Sort Options                  |     |     |
