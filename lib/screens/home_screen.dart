@@ -214,41 +214,6 @@ class _HomeScreenState extends State<HomeScreen> {
     );
   }
 
-  // Widget _buildSearchBar() {
-  //   return Container(
-  //     decoration: BoxDecoration(
-  //       color: Colors.white.withOpacity(0.2),
-  //       borderRadius: BorderRadius.circular(16),
-  //     ),
-  //     child: TextField(
-  //       controller: _searchController,
-  //       style: const TextStyle(color: Colors.white),
-  //       decoration: InputDecoration(
-  //         hintText: 'Search products...',
-  //         hintStyle: TextStyle(color: Colors.white.withOpacity(0.7)),
-  //         prefixIcon: const Icon(Icons.search, color: Colors.white),
-  //         suffixIcon: _searchController.text.isNotEmpty
-  //             ? IconButton(
-  //                 icon: const Icon(Icons.clear, color: Colors.white),
-  //                 onPressed: () {
-  //                   _searchController.clear();
-  //                   context.read<ProductCubit>().searchProducts('');
-  //                 },
-  //               )
-  //             : null,
-  //         border: InputBorder.none,
-  //         contentPadding: const EdgeInsets.symmetric(
-  //           horizontal: 16,
-  //           vertical: 14,
-  //         ),
-  //       ),
-  //       onChanged: (value) {
-  //         context.read<ProductCubit>().searchProducts(value);
-  //       },
-  //     ),
-  //   );
-  // }
-
   Widget _buildCategoryTabs() {
     return BlocBuilder<ProductCubit, ProductState>(
       builder: (context, state) {
