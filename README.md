@@ -5,7 +5,6 @@ A beautiful, full-featured Flutter e-commerce application with Cubit state manag
 ![Flutter](https://img.shields.io/badge/Flutter-3.0+-02569B?logo=flutter)
 ![Dart](https://img.shields.io/badge/Dart-3.0+-0175C2?logo=dart)
 ![State Management](https://img.shields.io/badge/State%20Management-Cubit-00D9FF)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 ## Screenshots
 
