@@ -327,4 +327,4 @@ Error Color:      #F56565 (Red)
 
 **Your Name**
 
-- GitHub: [@HasanorDim](https://github.com/HasanorDim)
+- GitHub: [Hasanor Dimasimpan](https://github.com/HasanorDim)
