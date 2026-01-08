@@ -9,13 +9,21 @@ A beautiful, full-featured Flutter e-commerce application with Cubit state manag
 
 ## Screenshots
 
-|     Home Screen (Grid)      |              Home Screen (List)               |        Product Detail        |
-| :-------------------------: | :-------------------------------------------: | :--------------------------: |
-| _Grid view with categories_ | <img src="screenshots/image.png" width="200"> | _Product details & quantity_ |
+|               Home Screen (Grid)               |              Home Screen (List)               |                 Product Detail                 |
+| :--------------------------------------------: | :-------------------------------------------: | :--------------------------------------------: |
+| <img src="screenshots/image1.png" width="200"> | <img src="screenshots/image.png" width="200"> | <img src="screenshots/image2.png" width="200"> |
 
-|   Shopping Cart   |    Sort Options     |         Settings          |
-| :---------------: | :-----------------: | :-----------------------: |
-| _Cart management_ | _Sort bottom sheet_ | _Dark mode & preferences_ |
+|                 Shopping Cart                  |                                                |
+| :--------------------------------------------: | :--------------------------------------------: | ------------------------- |
+| <img src="screenshots/image3.png" width="200"> | <img src="screenshots/image4.png" width="200"> | _Dark mode & preferences_ |
+
+|                    Settings                    |                    DarkMod                     |     |
+| :--------------------------------------------: | :--------------------------------------------: | :-: |
+| <img src="screenshots/image5.png" width="200"> | <img src="screenshots/image6.png" width="200"> |
+
+|                  Sort Options                  |     |     |
+| :--------------------------------------------: | :-: | :-: |
+| <img src="screenshots/image7.png" width="200"> |
 
 ## Features
 
