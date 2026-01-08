@@ -58,7 +58,7 @@ A beautiful, full-featured Flutter e-commerce application with Cubit state manag
 - **Immutable States** - Proper state management with copyWith
 - **Clean Architecture** - Separated concerns (Models, Services, Cubits, Screens)
 
-## 🏗️ Architecture
+## Architecture
 
 ```
 lib/
@@ -118,7 +118,7 @@ flutter pub get
 flutter run
 ```
 
-## 📦 Dependencies
+## Dependencies
 
 ```yaml
 dependencies:
